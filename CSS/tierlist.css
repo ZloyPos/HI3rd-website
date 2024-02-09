@@ -4,11 +4,11 @@ body {
   line-height: 1.6;
   color: #f2f4f5;
   min-height: 100vh;
-  padding-bottom: 16.4rem;
+  padding-bottom: 6.05rem;
 }
 
 .tierlist {
-  width: 80%;
+  width: 95%;
   padding: 0px 75px 20px;
   margin: 0 auto;
 }
@@ -110,17 +110,6 @@ body {
   width: 100%;
 }
 
-.tier-burst {
-  display: flex;
-  justify-content: space-around;
-  align-items: center;
-}
-
-.tier-burst.sp-support,
-.tier-burst.dd-low {
-  background-color: #36373f;
-}
-
 .tier-list .tier-container {
   grid-gap: 0;
   background-color: #2c2d33;
@@ -130,6 +119,26 @@ body {
   justify-content: space-between;
   position: relative;
   width: 100%;
+}
+
+.tier-burst {
+  display: flex;
+  justify-content: space-around;
+  display: grid;
+  grid-template-columns: 33% 33% 33%;
+  text-align: center;
+}
+
+.tier-burst.sp-support,
+.tier-burst.dd-low {
+  background-color: #36373f;
+}
+
+.avatar-card {
+  margin-top: 0.3rem;
+  align-items:center;
+  display: flex;
+  flex-direction: column;
 }
 
 .avatar-card img {
