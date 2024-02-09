@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="keywords" content="iNFO Project, Honkai Impact Database, HI Database, Honkai Impact 3rd Database, HI3rd Database, HI3rd, HI3rd Archive, Honkai Impact 3rd Archive, Honkai Impact 3rd iNFO Database, Honkai Impact 3rd Characters, Honkai Impact 3rd Items, Honkai Impact 3rd Tierlist, Honkai Impact 3rd Weapons, Honkai Impact 3rd Stigmatas, Honkai Impact Guides, Honkai Impact 3rd Guides">
+    <meta name="keywords" content="Honkai Impact 3rd тирлист, Honkai Impact 3rd тир-лист, HI3 тирлист, HI3 тир-лист">
     <title>Тир-лист | iNFO Project</title>
     <link rel="stylesheet" href="CSS/tierlist.css">
 </head>
@@ -31,37 +31,38 @@
                 </div>
                 <div class="tier-container">
                     <div class="tier-burst s-support">
-                        <div class="avatar-card card">
-                            <img alt="HoTr" src="Images/Tierlist/HoTr.webp">
+                        <div class="avatar-card">
+                            <img alt="HoTr" src="Images/Valkyries/HoTr.webp">
                         </div>
-                        <div class="avatar-card card">
-                            <img alt="Lunar Vow" src="Images/Tierlist/LV.webp">
+                        <div class="avatar-card">
+                            <img alt="Lunar Vow" src="Images/Valkyries/LV.webp">
                         </div>
                     </div>
                     <div class="tier-burst sp-support">
-                        <div class="avatar-card card">
-                            <img alt="Golden Diva" src="Images/Tierlist/GD.webp">
+                        <div class="avatar-card">
+                            <img alt="Golden Diva" src="Images/Valkyries/GD.webp">
                         </div>
-                        <div class="avatar-card card">
-                            <img alt="Sugary Starburst" src="Images/Tierlist/SS.webp">
+                        <div class="avatar-card">
+                            <img alt="Sugary Starburst" src="Images/Valkyries/SSb.webp">
+                            <p>Слабая альтернатива</p>
                         </div>
                     </div>
                     <div class="tier-burst dd">
-                        <div class="avatar-card card">
+                        <div class="avatar-card">
                             <span>
-                                <img alt="Lunar Vow" src="Images/Tierlist/LV.webp">
+                                <img alt="Lunar Vow" src="Images/Valkyries/LV.webp">
                             </span>
                         </div>
                     </div>
                     <div class="tier-burst dd-low">
-                        <div class="avatar-card card">
-                            <img alt="HoH" src="Images/Tierlist/HoO.webp">
+                        <div class="avatar-card">
+                            <img alt="HoH" src="Images/Valkyries/HoO.webp">
                         </div>
-                        <div class="avatar-card card">
-                            <img alt="Infinite Ouroboros" src="Images/Tierlist/IO.webp">
+                        <div class="avatar-card">
+                            <img alt="Infinite Ouroboros" src="Images/Valkyries/IO.webp">
                         </div>
-                        <div class="avatar-card card">
-                            <img alt="Disciplinary Perdition" src="Images/Tierlist/DP.webp">
+                        <div class="avatar-card">
+                            <img alt="Disciplinary Perdition" src="Images/Valkyries/DP.webp">
                         </div>
                     </div>
                 </div>
@@ -72,41 +73,48 @@
                 </div>
                 <div class="tier-container">
                     <div class="tier-burst s-support">
-                        <div class="avatar-card card">
-                            <img alt="HoRB" src="Images/Tierlist/HoRB.webp">
+                        <div class="avatar-card">
+                            <img alt="HoRB" src="Images/Valkyries/HoRB.webp">
+                            <p>ЛУЧШАЯ</p>
                         </div>
-                        <div class="avatar-card card">
-                            <img alt="HoS" src="Images/Tierlist/HoS.webp">
+                        <div class="avatar-card">
+                            <img alt="HoS" src="Images/Valkyries/HoS.webp">
+                            <p>Саппорт под ХоРБ</p>
                         </div>
                     </div>
                     <div class="tier-burst sp-support">
-                        <div class="avatar-card card">
-                            <img alt="Terminal Aide 0017" src="Images/Tierlist/TA.webp">
+                        <div class="avatar-card">
+                            <img alt="Terminal Aide 0017" src="Images/Valkyries/TA.webp">
+                            <p>Общая поддержка, щитолом</p>
                         </div>
-                        <div class="avatar-card card">
-                            <img alt="Cosmic Expression" src="Images/Tierlist/CE.webp">
+                        <div class="avatar-card">
+                            <img alt="Cosmic Expression" src="Images/Valkyries/CE.webp">
+                            <p>Кровоток поддержка</p>
                         </div>
-                        <div class="avatar-card card">
-                            <img alt="Starry Impression" src="Images/Tierlist/SI.webp">
+                        <div class="avatar-card">
+                            <img alt="Starry Impression" src="Images/Valkyries/SI.webp">
+                            <p>Кровоток поддержка под CE</p>
                         </div>
                     </div>
                     <div class="tier-burst dd">
-                        <div class="avatar-card card">
-                            <img alt="HoRB" src="Images/Tierlist/HoRB.webp">
+                        <div class="avatar-card">
+                            <img alt="HoRB" src="Images/Valkyries/HoRB.webp">
                         </div>
-                        <div class="avatar-card card">
-                            <img alt="Valkyrie Quicksand" src="Images/Tierlist/VQ.webp">
+                        <div class="avatar-card">
+                            <img alt="Valkyrie Quicksand" src="Images/Valkyries/VQ.webp">
+                            <p>Фармибельна</p>
                         </div>
                     </div>
                     <div class="tier-burst dd-low">
-                        <div class="avatar-card card">
-                            <img alt="Dreamweaver" src="Images/Tierlist/D.webp">
+                        <div class="avatar-card">
+                            <img alt="Dreamweaver" src="Images/Valkyries/D.webp">
                         </div>
-                        <div class="avatar-card card">
-                            <img alt="HoS" src="Images/Tierlist/HoS.webp">
+                        <div class="avatar-card">
+                            <img alt="HoS" src="Images/Valkyries/HoS.webp">
+                            <p>Требует ранги и ключ</p>
                         </div>
-                        <div class="avatar-card card">
-                            <img alt="Palatinus Equinox" src="Images/Tierlist/PE.webp">
+                        <div class="avatar-card">
+                            <img alt="Palatinus Equinox" src="Images/Valkyries/PE.webp">
                         </div>
                     </div>
                 </div>
@@ -117,74 +125,80 @@
                 </div>
                 <div class="tier-container">
                     <div class="tier-burst s-support">
-                        <div class="avatar-card card">
+                        <div class="avatar-card">
                             <span>
-                                <img alt="HoTr" src="Images/Tierlist/HoTr.webp">
+                                <img alt="HoTr" src="Images/Valkyries/HoTr.webp">
                             </span>
                         </div>
                     </div>
                     <div class="tier-burst sp-support">
-                        <div class="avatar-card card">
-                            <img alt="Chrono Navi" src="Images/Tierlist/CN.webp">
+                        <div class="avatar-card">
+                            <img alt="Chrono Navi" src="Images/Valkyries/CN.webp">
                         </div>
-                        <div class="avatar-card card">
-                            <img alt="Sugary Starburst" src="Images/Tierlist/SS.webp">
+                        <div class="avatar-card">
+                            <img alt="Sugary Starburst" src="Images/Valkyries/SSb.webp">
+                            <p>Слабая альтернатива</p>
                         </div>
                     </div>
                     <div class="tier-burst dd">
-                        <div class="avatar-card card">
-                            <span>
-                                <img alt="Miracle ☆ Magical Girl" src="Images/Tierlist/MMG.webp">
-                            </span>
+                        <div class="avatar-card">
+                            <img alt="Fenghuang of Vicissitude" src="Images/Valkyries/FoV.webp">
+                        </div>
+                        <div class="avatar-card">
+                            <img alt="Miracle ☆ Magical Girl" src="Images/Valkyries/MMG.webp">
+                            <p>Фармибельна</p>
                         </div>
                     </div>
                     <div class="tier-burst dd-low">
-                        <div class="avatar-card card">
-                            <img alt="HoFin" src="Images/Tierlist/HoFin.webp">
+                        <div class="avatar-card">
+                            <img alt="HoFin" src="Images/Valkyries/HoFin.webp">
                         </div>
-                        <div class="avatar-card card">
-                            <img alt="HoO" src="Images/Tierlist/HoO.webp">
+                        <div class="avatar-card">
+                            <img alt="HoO" src="Images/Valkyries/HoO.webp">
+                            <p>Дорогая сборка с нуля</p>
                         </div>
-                        <div class="avatar-card card">
-                            <img alt="HoTr" src="Images/Tierlist/HoTr.webp">
+                        <div class="avatar-card">
+                            <img alt="HoTr" src="Images/Valkyries/HoTr.webp">
                         </div>
                     </div>
-                </div>
             </div>
+        </div>
             <div class="tier lightning">
                 <div class="team-type ice">
                     <span>Ледяные</span>
                 </div>
                 <div class="tier-container">
                     <div class="tier-burst s-support">
-                        <div class="avatar-card card">
+                        <div class="avatar-card">
                             <span>
-                                <img alt="Jade Knight" src="Images/Tierlist/JK.webp">
+                                <img alt="Jade Knight" src="Images/Valkyries/JK.webp">
                             </span>
                         </div>
                     </div>
                     <div class="tier-burst sp-support">
-                        <div class="avatar-card card">
-                            <img alt="Sugary Starburst" src="Images/Tierlist/SS.webp">
+                        <div class="avatar-card">
+                            <img alt="Sugary Starburst" src="Images/Valkyries/SSb.webp">
                         </div>
-                        <div class="avatar-card card">
-                            <img alt="Reverist Calico" src="Images/Tierlist/RC.webp">
+                        <div class="avatar-card">
+                            <img alt="Reverist Calico" src="Images/Valkyries/RC.webp">
+                            <p>Используется для 3-саппорт команды</p>
                         </div>
                     </div>
                     <div class="tier-burst dd">
-                        <div class="avatar-card card">
-                            <img alt="HoTr" src="Images/Tierlist/HoTr.webp">
+                        <div class="avatar-card">
+                            <img alt="HoTr" src="Images/Valkyries/HoTr.webp">
                         </div>
-                        <div class="avatar-card card">
-                            <img alt="HoHE" src="Images/Tierlist/HoHE.webp">
+                        <div class="avatar-card">
+                            <img alt="HoHE" src="Images/Valkyries/HoHE.webp">
                         </div>
                     </div>
                     <div class="tier-burst dd-low">
-                        <div class="avatar-card card">
-                            <img alt="Silverwing N-EX" src="Images/Tierlist/SW.webp">
+                        <div class="avatar-card">
+                            <img alt="Silverwing N-EX" src="Images/Valkyries/SW.webp">
                         </div>
-                        <div class="avatar-card card">
-                            <img alt="HoR" src="Images/Tierlist/HoR.webp">
+                        <div class="avatar-card">
+                            <img alt="HoR" src="Images/Valkyries/HoR.webp">
+                            <p>Фармибельна, требует ранги и ключ</p>
                         </div>
                     </div>
                 </div>
