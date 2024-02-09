@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="keywords" content="iNFO Project, Honkai Impact Database, HI Database, Honkai Impact 3rd Database, HI3rd Database, HI3rd, HI3rd Archive, Honkai Impact 3rd Archive, Honkai Impact 3rd iNFO Database, Honkai Impact 3rd Characters, Honkai Impact 3rd Items, Honkai Impact 3rd Tierlist, Honkai Impact 3rd Weapons, Honkai Impact 3rd Stigmatas, Honkai Impact Guides, Honkai Impact 3rd Guides">
+    <meta name="keywords" content="Honkai Impact 3rd оружия, HI3 оружия">
     <title>Оружия | iNFO</title>
     <link rel="stylesheet" href="CSS/weapons.css">
     <script src="Scripts/script.js" defer></script>
