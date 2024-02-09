@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="keywords" content="iNFO Project, Honkai Impact Database, HI Database, Honkai Impact 3rd Database, HI3rd Database, HI3rd, HI3rd Archive, Honkai Impact 3rd Archive, Honkai Impact 3rd iNFO Database, Honkai Impact 3rd Characters, Honkai Impact 3rd Items, Honkai Impact 3rd Tierlist, Honkai Impact 3rd Weapons, Honkai Impact 3rd Stigmatas, Honkai Impact Guides, Honkai Impact 3rd Guides">
+    <meta name="keywords" content="iNFO Project, Honkai Impact, HI, Honkai Impact 3rd, HI3rd, Honkai Impact 3rd персонажи, Honkai Impact 3rd валькирии, Honkai Impact 3rd стигматы, Honkai Impact 3rd тир-лист, Honkai Impact 3rd тирлист, Honkai Impact 3rd оружия, Honkai Impact гайды, Honkai Impact 3rd гайды">
     <title>iNFO Project</title>
     <link rel="stylesheet" href="CSS/index.css">
 </head>
@@ -12,6 +12,13 @@
 <body>
     <?php include("nav.php"); ?>
     <div class="title">iNFO Project</div>
+    <div class="desc">
+        <p>Добро пожаловать в iNFO Project - вашу базу данных по вселенной игры Honkai Impact 3rd!<br>
+            Здесь вы найдете самую актуальную и полезную информацию о персонажах, оружии, стигматах и многом другом.<br>
+            Наша цель - помочь вам максимально раскрыть потенциал в игре, предоставив обширный набор данных и советов.<br>
+            Присоединяйтесь к нашему сообществу и станьте настоящим мастером Honkai Impact 3rd!
+        </p>
+    </div>
     <div class="cards">
         <a href="valkyries.php" class="card valkyries">
             <span>Валькирии</span>
